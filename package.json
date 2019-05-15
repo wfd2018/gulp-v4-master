@@ -1,0 +1,21 @@
+{
+  "name": "gulp-v4-master",
+  "version": "1.0.0",
+  "description": "gulp master file matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "browser-sync"
+  ],
+  "author": "wfd2018 (github)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
+
